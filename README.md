@@ -7,24 +7,24 @@ Projeto To-do-list
 # `Descrição`
 O Projeto To-do-list foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API em que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta de cadastro de usuários, tarefas e responsabilidade pelas tarefas. Os endpoints implementados são:
 
-**createUser:** cria novo usuário.
-**getUserById:** obtém os dados de um usuário pelo seu ID.
-**editUser:** edita os dados de um usuário.
-**createTask:** cria uma nova tarefa.
-**getTaskById:** obtém as informações de uma tarefa pelo seu ID.
-**getAllUsers:** obtém todos os usuários cadastrados.
-**getAllTasksById:** obtém uma tarefa específica pelo seu ID.
-**searchUser:** procura por usuário(s) por termos de busca.
-**responsableTask:** atribui um usuário responsável por uma tarefa.
-**getResponsiblesTask:** obtém os usuários responsáveis por uma tarefa pelo ID desta.
-**getTasksAndYourResponsibles:** obtém uma tarefa pelo seu ID e seus responsáveis.
-**updateStatusById:** atualiza o status de uma tarefa pelo seu ID.
-**getTasksByStatus:** obtém todas as tarefas por um status.
-**getTasksDelayed:** obtém todas as tarefas que estão atrasadas.
-**deleteResponsibleTask:** retira um usuário responsável por uma tarefa.
-**searchTaskByTerm:** procura uma tarefa por termos de busca.
-**deleteTask:** deleta uma tarefa pelo seu ID.
-**deleteUser:** deleta um usuário pelo seu ID.
+**createUser:** cria novo usuário. </br>
+**getUserById:** obtém os dados de um usuário pelo seu ID. </br>
+**editUser:** edita os dados de um usuário. </br>
+**createTask:** cria uma nova tarefa. </br>
+**getTaskById:** obtém as informações de uma tarefa pelo seu ID. </br>
+**getAllUsers:** obtém todos os usuários cadastrados. </br>
+**getAllTasksById:** obtém uma tarefa específica pelo seu ID. </br>
+**searchUser:** procura por usuário(s) por termos de busca. </br>
+**responsableTask:** atribui um usuário responsável por uma tarefa. </br>
+**getResponsiblesTask:** obtém os usuários responsáveis por uma tarefa pelo ID desta. </br>
+**getTasksAndYourResponsibles:** obtém uma tarefa pelo seu ID e seus responsáveis. </br>
+**updateStatusById:** atualiza o status de uma tarefa pelo seu ID. </br>
+**getTasksByStatus:** obtém todas as tarefas por um status. </br>
+**getTasksDelayed:** obtém todas as tarefas que estão atrasadas. </br>
+**deleteResponsibleTask:** retira um usuário responsável por uma tarefa. </br>
+**searchTaskByTerm:** procura uma tarefa por termos de busca. </br>
+**deleteTask:** deleta uma tarefa pelo seu ID. </br>
+**deleteUser:** deleta um usuário pelo seu ID. </br>
 
 A documentação da API pode ser acessada [aqui](https://documenter.getpostman.com/view/21552787/VUxKU9jT).
 
@@ -79,5 +79,5 @@ Fazer as requisições para os endpoint mostrados na documentação, utilizando,
 </div>
 
 # `Autor`
-Evandro Paulo Folletto
+Evandro Paulo Folletto  </br>
 <a href="https://www.linkedin.com/in/evandrofolletto/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/epfolletto"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
