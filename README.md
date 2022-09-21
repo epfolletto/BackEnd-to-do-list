@@ -5,6 +5,7 @@ Projeto To-do-list
 [Clique aqui!](https://folletto-to-do-list.herokuapp.com/)
 
 # `Descrição`
+[Projeto desenvolvido na semana 17 do curso Labenu]. </br>
 O Projeto To-do-list foi desenvolvido como uma atividade dentro do curso Full-Stack Web Developer da Labenu, o qual consiste na elaboração de uma API em que retorna dados conforme as requisições enviadas. Trata-se de uma ferramenta de cadastro de usuários, tarefas e responsabilidade pelas tarefas. Os endpoints implementados são:
 
 **createUser:** cria novo usuário. </br>
